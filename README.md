@@ -1,4 +1,4 @@
-#Analiza IMDb filmov
+Analiza IMDb filmov
 1. Za projekt se bova usmerila v pridobivanje in analizo podatkov iz IMDb. Iz podatkov bova poskušala 
 poiskati povezavo med žanrom, oceno, številom glasov in zaslužkom, ter iz tega določiti profil filma, 
 ki bi imel vsaj na IMDb, večjo verjetnost uspeha.
